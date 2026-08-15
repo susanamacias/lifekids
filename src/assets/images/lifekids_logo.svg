@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 90" width="340" height="90">
+  <style>
+    .logo-text { font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 900; }
+  </style>
+  <g stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+    <!-- L I F E in Bright Orange -->
+    <text x="5" y="68" class="logo-text" font-size="70" fill="#FF7000" letter-spacing="-2">LIFE</text>
+    <!-- k in Mint Cyan -->
+    <text x="180" y="68" class="logo-text" font-size="68" fill="#5EEAD4">k</text>
+    <!-- i in Vibrant Blue -->
+    <text x="222" y="68" class="logo-text" font-size="68" fill="#0284C7">i</text>
+    <!-- d in Leaf Green -->
+    <text x="250" y="68" class="logo-text" font-size="68" fill="#22C55E">d</text>
+    <!-- s in Sun Yellow -->
+    <text x="295" y="68" class="logo-text" font-size="68" fill="#FACC15">s</text>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+{
+  "name": "Remix Life Kids - Ciencia y Fe para Niños copia",
+  "description": "Programa educativo cristiano de ciencia y fe para niños de 7 a 12 años.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

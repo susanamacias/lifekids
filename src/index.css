@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@layer base {
+  * {
+    font-family: 'Montserrat', sans-serif !important;
+  }
+  
+  html {
+    font-family: 'Montserrat', sans-serif !important;
+  }
+}
+
+/* Custom smooth animations & focus outlines */
+.animate-pulse-subtle {
+  animation: pulse-subtle 3s infinite ease-in-out;
+}
+
+@keyframes pulse-subtle {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.02); }
+}
+
